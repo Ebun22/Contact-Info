@@ -31,4 +31,4 @@ import React, { Component } from 'react'
 }
 
 
-export default ContactCar
+export default ContactCard
